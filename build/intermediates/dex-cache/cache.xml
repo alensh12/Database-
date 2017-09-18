@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/alensh/.android/build-cache/40800e951dfac105eed897a2b7f4bd2443aa77be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/alensh/PetInfo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1023f4f68e68bd998b7474b79b3680b2c3a54e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alensh/.android/build-cache/cde6b22f0af20a80b94901b41e76c839e4e7288d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/alensh/PetInfo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61753efb9b3fed0e2d81ab4a1df9bb69ca7b379c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alensh/PetInfo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e04e6b08dc3f41f9aed1d57b651959857df8040">
+        <dex dex="/home/alensh/PetInfo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc789e8ed85f28a2823bcfa702c3ba426265e2dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/alensh/PetInfo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/alensh/PetInfo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9152bc3d5a3f9947164d4eb174fed7a1269a8a4b/classes.dex" />
+    </item>
+
+</items>
